@@ -1,0 +1,10 @@
+.notFound {
+    max-width: 600px;
+    margin: auto;
+}
+
+.notFound__title {
+    margin-top: 0;
+    margin-bottom: 20px;
+    text-align: center;
+}
